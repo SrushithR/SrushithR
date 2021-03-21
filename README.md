@@ -13,8 +13,8 @@ I have also started [Serverless Saturdays](https://github.com/SrushithR/Serverle
 
 ##### Some Things About Me:
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 
-- 🌐 Exist everywhere! [GitHub](https://github.com/srushithR), [Hashnode](https://srushith.hashnode.dev/), [LinkedIn](https://www.linkedin.com/in/srushith/) and [Twitter](https://twitter.com/SrushithR)
-- 🔍 Focusing on personal growth, and helping developers not only kick start their serverless journey but also provide an opportunity to get access to learnings and experiences from experts across the globe.
+- 🌐 Exist everywhere - [GitHub](https://github.com/srushithR), [Hashnode](https://srushith.hashnode.dev/), [LinkedIn](https://www.linkedin.com/in/srushith/) and [Twitter](https://twitter.com/SrushithR)
+- 🔍 Focusing on helping developers not only kick start their serverless journey but also provide an opportunity to get access to learnings and experiences from experts across the globe.
 
 <!--
 **SrushithR/SrushithR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
