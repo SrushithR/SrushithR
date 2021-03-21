@@ -6,7 +6,7 @@ I got my first taste of serverless while participating in the "AWS Chatbot Chall
 
 I am passionate about building serverless applications and sharing experiences at various events across the globe, and believe that serverless is the future of software development and the way applications will be built moving forward. It will empower every developer to easily migrate to the cloud and start building with the least friction. I anticipate serverless becoming the cheapest supercomputer at the hands of every developer!
 
-I revently founded the [Tirupati AWS User Group](https://www.meetup.com/aws-user-group-tirupati/) and also started the [first serverless-focused meetup group in Bangalore](https://www.meetup.com/Serverless-Bangalore/) where I present and encourage young passionate members to get involved. There are over 6,000+ members across both groups! 
+I recently founded the [Tirupati AWS User Group](https://www.meetup.com/aws-user-group-tirupati/) and also started the [first serverless-focused meetup group in Bangalore](https://www.meetup.com/Serverless-Bangalore/) where I present and encourage young passionate members to get involved. There are over 6,000+ members across both groups! 
 
 I have also started [Serverless Saturdays](https://github.com/SrushithR/Serverless-Saturdays), a monthly webinar focusing on everything serverless and helping developers not only kick start their serverless journey, but also provide an opportunity to get access to learnings and experiences from experts across the globe.
 
