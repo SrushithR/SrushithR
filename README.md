@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Srushith Repakula, AWS Serverless Hero and Head of Engineering at [KonfHub](https://konfhub.com/) - a one-stop platform for technical conferences built on AWS stack, primarily using serverless and other associated services.
+I am Srushith Repakula, [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/srushith-repakula/) and Head of Engineering at [KonfHub](https://konfhub.com/) - a one-stop platform for technical conferences built on AWS stack, primarily using serverless and other associated services.
 
 I got my first taste of serverless while participating in the "AWS Chatbot Challenge" –  where I fell instantly in love with the technology and the unparalleled passion for Lambdas henceforth began.
 
